@@ -11,5 +11,32 @@ I obtained my PhD from the [Department of Mathematics](https://math.tamu.edu/) a
 
 (Links to research, projects, and past teaching to come.)
 
-# Research
+## Education
 
+### Doctor of Philosophy (2016 - 2022)
+
+Texas A&M University, College Station, TX
+
+**Dissertation**: Distributions and von Neumann Algebras over Fock Spaces with Depth-Two Action
+
+**Advisor**: Michael Anshelevich
+
+View my dissertation [here](./mashburn_dissertation.pdf).
+
+### Bachelor of Arts in Mathematics (2012 - 2016)
+
+Texas A&M University, College Station, TX
+
+**Minor**: Economics
+
+# To do before next push:
+
+Upload CV and resume
+
+Research (preferably on a separate page)
+
+Past Projects
+
+Past Teaching
+
+(Maybe) Just for Fun page (for hobby development projects)
