@@ -5,9 +5,9 @@ layout: default
 
 I obtained my PhD from the [Department of Mathematics](https://math.tamu.edu/) at Texas A&M University in August 2022, under the supervision of [Michael Anshelevich](https://math.tamu.edu/~manshel/). My dissertation lies in the fields of operator algebras and free, or non-commutative, probability theory. I am currently on the job market.
 
-View my resume [here](./mashburn_resume.pdf).
+View my resume [here](./mashburn_resume.pdf) (last updated August 29, 2022).
 
-View my curriculum vitae [here](./mashburn_cv.pdf).
+View my curriculum vitae [here](./mashburn_cv.pdf) (last updated August 29, 2022).
 
 ## Education
 
