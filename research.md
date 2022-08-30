@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+# Research
 
-_yay_
+
 
 [back](./)
