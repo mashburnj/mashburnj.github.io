@@ -26,13 +26,3 @@ View my dissertation [here](./mashburn_dissertation.pdf).
 Texas A&M University, College Station, TX
 
 **Minor**: Economics
-
-# Coming soon:
-
-Research
-
-Projects
-
-Past Teaching
-
-(Maybe) Just for Fun page (for hobby development projects)
