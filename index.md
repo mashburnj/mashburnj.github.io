@@ -9,6 +9,8 @@ View my resume [here](./mashburn_resume.pdf) (last updated August 29, 2022).
 
 View my curriculum vitae [here](./mashburn_cv.pdf) (last updated August 29, 2022).
 
+Use the links to the left to view my current projects and research interests.
+
 ## Education
 
 ### Doctor of Philosophy (2016 - 2022)
