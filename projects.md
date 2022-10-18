@@ -50,7 +50,7 @@ Contestants were provided 5 tanh-embeddings, each corresponding to a news articl
 
 See the competition [website](https://tamids.tamu.edu/2022/01/23/2022-dscomp-call/) for more information on the objective.
 
-My team and I have a [website] showcasing this project. I also have a fork of our GitHub repository for anyone interested. We were named a Finalist and won the category of "Best Use of External Data".
+My team and I have a [website](https://arpan-pal.github.io/ds_comp_22/index.html) showcasing this project. I also have a fork of our GitHub repository for anyone interested. We were named a Finalist and won the category of "Best Use of External Data".
 
 As the four of us were mathematics graduate students, we focused our efforts on the interdisciplinary research of the TAMU Mathematics Department.
 
