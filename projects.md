@@ -18,7 +18,7 @@ See detailed description [here](./sample2genesis.html).
 
 ### Latest update
 
-(October 17, 2022) I am currently putting this project on hold while I devise a scalable solution to collect more audio samples for the instrument patches contained in the training data set. I currently have about 550 samples, and I have about 5,000 Y12 files that do not yet have samples. See the link above or README.MD in this project's GitHub repository for more information.
+(January 29, 2023) I found a good high-fidelity solution to record samples for the approximately 6,000 patches I have. As I type, I am recording them, and should be finished by the morning. The next step is to enhance the spectrum analysis pipeline to handle changes in spectrum over time. See the project page for details.
 
 # Bloomberg Challenge
 
