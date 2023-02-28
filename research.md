@@ -4,12 +4,12 @@ layout: default
 
 # Research
 
-Free probability theory is the study of non-commutative random variables. This includes literal random structures whose multiplication is non-commutative, such as random matrices; it also includes objects that are merely interpreted as random variables, namely linear operators over a Hilbert space, whose "expected value" is defined by a positive linear functional over the entire algebra of operators.
+Free probability theory is the study of non-commutative random variables. This includes literal random structures whose multiplication is non-commutative, such as random matrices; it also includes objects that are merely interpreted as random variables, such as linear operators over a Hilbert space, where "expected value" is defined by a positive linear functional over the entire algebra of operators.
 
 My personal interests in free probability are three-fold:
 
-*    Applications to random matrix theory (and in turn, their applications to data science, particularly in solving the so-called "curse of dimensionality.")
-*    Applications to operator algebras, namely von Neumann algebras.
+*    Applications to random matrix theory (and in turn, their applications to data science, particularly in dimension-reduction techniques).
+*    Applications to operator algebras, particularly namely von Neumann algebras.
 *    Combinatorial interpretations of free probability (such as free and Boolean cumulants) using lattice paths and non-crossing partitions.
 
 ## Preprint Articles

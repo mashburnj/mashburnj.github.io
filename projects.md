@@ -10,7 +10,7 @@ See detailed description [here](./sample2genesis.html).
 
 ### Objective
 
-* Given an audio sample, use neural networks to predict the YM2612 synthesizer chip registers (settings) needed to replicate the sound (or a close approximation of it).
+* Given an audio sample, use (convolutional) neural networks to predict the YM2612 synthesizer chip registers (settings) needed to replicate the sound (or a close approximation of it).
 
 ### Progress
 * Preprocessed audio sample data taken from Sega Genesis audio output by analyzing spectra, identifying the samples’ fundamental frequencies, and applying dimension reduction techniques to the raw audio sample data.
@@ -18,7 +18,7 @@ See detailed description [here](./sample2genesis.html).
 
 ### Latest update
 
-(January 29, 2023) I found a good high-fidelity solution to record samples for the approximately 6,000 patches I have. As I type, I am recording them, and should be finished by the morning. The next step is to enhance the spectrum analysis pipeline to handle changes in spectrum over time. See the project page for details.
+(Febuary 27, 2023) I have developed 8 neural network models, one for each synth algorithm, using TensorFlow and Keras. I am currently reworking them into convolutional neural networks with fewer layers, and will train with fewer epochs and possibly a larger batch size, since the current models are overfitted. See the above link for details.
 
 # Bloomberg Challenge
 
