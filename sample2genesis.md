@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Audio Sample to Genesis Synthesis Estimator
+# Audio Sample to FM Synthesis Predictor
 
 ## Personal project, September 2022 - Present
 
@@ -44,7 +44,11 @@ As mentioned above, the chip is capable of producing sounds with 4 sine wave ope
 
 - Wrote main script for user, which runs a batch of WAV files through all 8 algorithm models by default, though some can be omitted.
 
-### Latest Update: February 27, 2023
+### Latest Update: March 3, 2023
+
+I have tested 7 out of 8 CNN models so far, and will test the last one tonight (it had the largest training set, so I saved it for last). I had to implement a unique testing loop for it because my GPU only has 2 GB of RAM... It shouldn't affect the speed very much though. Anyway, the other models' error metrics look great so far! You can look for yourself in the metrics directory.
+
+### Previous Update: February 27, 2023
 
 I've implemented 8 neural networks in TensorFlow and Keras, one for each FM algorithm. I've run preliminary tests and concluded that all 8 models are severely overfitted. To address this, I am cutting back on the number of layers and nodes for each model, as well as decreasing the number of epochs and possibly increasing the batch size. Moreover, I am switching to convolutional neural networks for each, since these tend to do better with audio data (actually, they're meant for images, but a sound's spectrogram can be interpreted by a CNN as a greyscale image). I have a prototype model sketched out in a Jupyter notebook and will be integrating it into the training scripts today, and running tests the rest of this week. Now that I have a proper GPU for ML purposes, I hope to finish testing by this weekend.
 

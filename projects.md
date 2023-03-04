@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Audio Sample to Genesis Synthesis Estimator
+# Audio Sample to FM Synthesis Predictor
 
-## Personal project, September 2022 - Present
+## Personal project, October 2022 - Present
 
 See detailed description [here](./sample2genesis.html).
 
@@ -18,7 +18,7 @@ See detailed description [here](./sample2genesis.html).
 
 ### Latest update
 
-(Febuary 27, 2023) I have developed 8 neural network models, one for each synth algorithm, using TensorFlow and Keras. I am currently reworking them into convolutional neural networks with fewer layers, and will train with fewer epochs and possibly a larger batch size, since the current models are overfitted. See the above link for details.
+(March 3, 2023) I have tested 7 out of 8 convolutional neural network models, and will test the last one tonight (it has the largest training set, so I saved it for last). See the above link for details.
 
 # Bloomberg Challenge
 
