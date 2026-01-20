@@ -7,7 +7,7 @@ Hello! I am a Mathematics PhD from [Texas A&M University](https://math.tamu.edu/
 
 View my resume [here](./mashburn_resume.pdf) (last updated February 24, 2022).
 
-View my curriculum vitae [here](./mashburn_cv.pdf) (last updated August 29, 2022).
+View my curriculum vitae [here](./mashburn_cv.pdf) (last updated January 20, 2026).
 
 Use the links to the left to view my teaching information, current projects, and research interests.
 
